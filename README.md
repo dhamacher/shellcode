@@ -8,7 +8,8 @@ Collection of code snippets and notes from studying the book "The Shellcoder's H
 # Table of Contents
 
 1. [Introduction](#Introduction)
-2. [Stack Overflows](/stack-overflow/README.md)
+2. [Assembly Reference (x86_64)](/assembly-reference/README.md)
+3. [Stack Overflows](/stack-overflow/README.md)
 
 </br>
 </br>

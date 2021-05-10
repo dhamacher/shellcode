@@ -2,8 +2,14 @@
 #include <string.h>
 
 
+void function(int a, int b, int c)
+{
+    char buffer1[5];
+    char buffer2[10];
+}
+
+
 int main()
 {
-    int array[5] = {1,2,3,4,5,6};
-    printf("%d\n", array[5]);
+    function(1,2,3);
 }
