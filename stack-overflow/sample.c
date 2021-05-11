@@ -2,14 +2,18 @@
 #include <string.h>
 
 
-void function(int a, int b, int c)
+void function()
 {
-    char buffer1[5];
-    char buffer2[10];
+    char array[30];
+
+    gets(array);
+    printf("%s\n", array);
 }
 
 
 int main()
 {
-    function(1,2,3);
+    function();
+
+    return 0;
 }

@@ -32,6 +32,12 @@ ENTER and LEAVE instructions and the Motorola LINK and UNLINK instructions,
 have been provided to do most of the procedure prolog and epilog work 
 efficiently.
 
+
+# First Debug Session
+Compile the sample.c code and use gdb to analyze the behavior of the stack at run time
+
+
+
 # Resources
 
 | Description | URL |
