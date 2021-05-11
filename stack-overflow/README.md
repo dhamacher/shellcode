@@ -36,5 +36,7 @@ efficiently.
 
 | Description | URL |
 |-------------|-----|
-| Contains good resources | http://lsd-pl.net/ |
 | Fantastic Article on Stack Overflows | [Smashing the Stack for Fun and Profit](https://insecure.org/stf/smashstack.html) |
+| Gnu Debugger Resource | [GDB: The GNU Project Debugger](https://www.gnu.org/software/gdb/) |
+| Compiler used for C code | [GCC, the GNU Compiler Collection](https://gcc.gnu.org/) |
+| Assembler used for this project | [The Yasm Modular Assembler Project](https://yasm.tortall.net/) |

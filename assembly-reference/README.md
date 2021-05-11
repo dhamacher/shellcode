@@ -32,5 +32,15 @@ Additionally, architecture is little-endian. This means that the Least Significa
 (LSB) is stored in the lowest memory address. The Most Significant Byte (MSB) is
 stored in the highest memory location.
 
+![Computer Architecure](../documentation/images/asm/little-endian-data-layout.png "Little Endian Data Layout") 
+
+We must remember that memory can only be addressed in multiples of the
+word size.
+
+## Memory Layout
+![Computer Architecure](../documentation/images/asm/memory-layout.png "Memory Layout") 
+
+## Memory Hierachy
+![Computer Architecure](../documentation/images/asm/memory-hierachy.png "Memory Layout") 
 
 # Data Represenation
